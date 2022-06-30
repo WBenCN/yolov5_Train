@@ -1,0 +1,5 @@
+The main part of this project is the YOLO v5 project published on GitHub by ultralytics：
+https://github.com/ultralytics/yolov5
+
+The data path and parameter adjustment part refers to the yolov5-mask-master project published by LULU on CSDN：
+https://blog.csdn.net/kushe123/article/details/113702225
